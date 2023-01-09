@@ -1,4 +1,4 @@
 const Home = props => {
-    return <h1>This is the Homepage</h1>
+    return <h1>Welcome to Stocks!</h1>
 }
 export default Home
